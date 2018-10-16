@@ -33,6 +33,12 @@ A list of IP addresses to assign this member. The member will be automatically a
 ### zerotier_member_description
 Optional desription for a member.
 
+### zerotier_world_id
+ZeroTier World ID used for orbiting.
+
+### zerotier_root
+ZeroTier Root used for orbiting.
+
 Example Playbook
 ----------------
 
